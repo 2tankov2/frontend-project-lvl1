@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/2tankov2/frontend-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/2tankov2/frontend-project-lvl1/actions)",
   "main": "index.js",
-  "bin": "bin/brain-games.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "tankov",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
