@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![Actions Status](https://github.com/2tankov2/frontend-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/2tankov2/frontend-project-lvl1/actions)",
   "main": "index.js",
   "bin": {
